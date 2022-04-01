@@ -11,8 +11,8 @@ const greet = false;
 
 greet ? console.log(`I've been instructed to greet you :)`) : console.log(`I'm sorry I can't talk to strangers :(`);
 
-///Will print:
-I'm sorry I can't talk to strangers :(
+/// Will print:
+/// I'm sorry I can't talk to strangers :(
 ```
 
 ```
@@ -20,6 +20,6 @@ const color = `Green`;
 
 color === "Green" ? console.log(`The color chosen was Green!`) : console.log(`The color chosen wasn't green!`);
 
-///Will print:
-The color chosen was Green!
+/// Will print:
+/// The color chosen was Green!
 ```
